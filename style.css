@@ -1,0 +1,160 @@
+body{
+    margin: 0;
+    font-family: 'Arimo', sans-serif;
+    background-color: rgb(247, 245, 243);
+}
+.banner{
+    width: 100%;
+    margin: 10px 0px 40px 0px;
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    margin-left: 20px;
+}
+.half-width img{
+    width: 87%;
+}
+.half-width h1{
+    padding-top: 64px;
+    font-size: 54px;
+    font-weight: 900;
+}
+span{
+    color: #0388f6;
+}
+.half-width p{
+    font-size: 20px;
+    padding-bottom: 40px;
+}
+#button{
+    
+    text-decoration: none;
+    background-image: linear-gradient(0.25turn,#a5d4ee, #0388f6);
+    color: white;
+    font-weight: bold;
+    padding: 10px 40px;
+    border-radius: 25px;
+    font-size: 16px;
+}
+.about{
+    width: 100%;
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+    background-position: cover;
+
+    margin-top: 10px;
+    display: flex;
+}
+.about-width{
+    width: 50%;
+    padding-left: 5%;
+    margin-left: 20px;
+}
+.about h1{
+    padding-top: 64px;
+    font-size: 54px;
+    font-weight: 900;
+}
+.about-width p{
+    font-size: 20px;
+    padding-bottom: 40px;
+}
+.recipies{
+    text-align: center;
+}
+.recipies h1{
+    font-size: 44px;
+    font-weight: 900;
+}
+.recipies p{
+    font-size: 18px;
+    padding-bottom: 30px;
+}
+.items{
+    display: flex;
+
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 0px 0px 20px 50px;
+    
+    border-radius: 10px;
+}
+
+
+#immg{
+    width: 90%;
+}
+
+.recipies-1{
+    width: 80%;
+    background-color: #FFF;
+    border: 15px solid #FFF;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px gray;
+}
+.recipies-2{
+    width: 80%;
+    background-color: #FFF;
+    border: 15px solid #FFF;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px gray;
+}
+.recipies-3{
+    width: 80%;
+    background-color: #FFF;
+    border: 15px solid #FFF;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+
+.socail{
+    margin: 10px 200px 10px 200px;
+    background-color: #FFF;
+    border: 15px solid #FFF;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px gray;
+    padding-bottom: 10px;
+
+}
+.socail-c{
+    display: flex;
+    margin-left: 26%;
+
+}
+.yt{
+    margin: 20px;
+}
+.ig{
+    margin: 20px;
+}
+.ds{
+    margin: 20px;
+}
+.yt h1{
+    font-size: 40px;
+    text-align: center;
+    margin: 5px;
+}
+.ig h1{
+    font-size: 40px;
+    text-align: center;
+    margin: 5px;
+}
+.ds h1{
+    font-size: 40px;
+    text-align: center;
+    margin: 5px;
+}
+footer{
+    margin-top: 30px;
+    text-align: center;
+    padding: 20px;
+    background-color: #000;
+    color: #fff;
+}
+#span{
+    color: rgb(104, 119, 121);
+}
